@@ -33,6 +33,15 @@ bo bobobo o
 
 
 dfklsdfsdkjgsdk
+
+
+TOHLE JE NOVÁ NAVIGACE
+aslkfsdlhf k
+sdkhfs kgfd
+fjd jk gnfdk
+TOHLE JE NOVÁ NAVIGACE
+
+
 /*DEFINE CLASS FUNCTIONS*/
 $debugConsole = new debugConsole();
 $fn = new functions();
