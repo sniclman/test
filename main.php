@@ -12,6 +12,8 @@ xxxx
 
 moje další změna
 
+tak to jo kámo
+
 if(isset($_GET['robots'])){require_once 'robots.php'; exit;}
 if(isset($_GET['sitemap'])){require_once 'sitemap.php'; exit;}
 if(isset($_GET['phpinfo'])){require_once 'phpinfo.php'; exit;}
