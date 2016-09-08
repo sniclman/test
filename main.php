@@ -10,7 +10,7 @@ require_once 'bootloader.php';
 
 xxxx
 
-bla bal ba bla bal
+moje další změna
 
 if(isset($_GET['robots'])){require_once 'robots.php'; exit;}
 if(isset($_GET['sitemap'])){require_once 'sitemap.php'; exit;}
