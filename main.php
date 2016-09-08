@@ -31,6 +31,8 @@ přidaný obsah
 GA GAG GAGA G
 bo bobobo o
 
+
+dfklsdfsdkjgsdk
 /*DEFINE CLASS FUNCTIONS*/
 $debugConsole = new debugConsole();
 $fn = new functions();
