@@ -16,6 +16,12 @@ tak to jo kámo
 
 já jsem KLON
 
+úprava od uživatele ORIGIN
+přidaný obsah
+bla bal bla bla
+blo blo blo blo 
+ble ble ble
+
 if(isset($_GET['robots'])){require_once 'robots.php'; exit;}
 if(isset($_GET['sitemap'])){require_once 'sitemap.php'; exit;}
 if(isset($_GET['phpinfo'])){require_once 'phpinfo.php'; exit;}
