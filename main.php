@@ -20,7 +20,10 @@ if(isset($_GET['robots'])){require_once 'robots.php'; exit;}
 if(isset($_GET['sitemap'])){require_once 'sitemap.php'; exit;}
 if(isset($_GET['phpinfo'])){require_once 'phpinfo.php'; exit;}
 
-
+úprava od uživatele CLONE
+přidaný obsah
+GA GAG GAGA G
+bo bobobo o
 
 /*DEFINE CLASS FUNCTIONS*/
 $debugConsole = new debugConsole();
